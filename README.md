@@ -1,10 +1,7 @@
 # Laptop_Price_Predictor# 💻 Laptop Price Predictor
 
-## Badges
 
-[![Version](https://img.shields.io/badge/version-1.0-blue)](https://shields.io/)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://shields.io/)  <!-- Replace MIT with actual license if available -->
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://shields.io/) <!-- Replace with actual build status if applicable -->
+
 
 
 ## Description
@@ -81,6 +78,3 @@ No specific configuration options are required at this time.
 Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request with your code.  Ensure your code adheres to the project's coding style and includes appropriate tests.
 
 
-## License
-
-[Specify License Here] <!--  e.g., MIT License -->
